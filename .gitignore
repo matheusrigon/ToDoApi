@@ -399,5 +399,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-*Todo.Domain.Api\appsettings.json
-*Todo.Domain.Api\appsettings.Development
+/Todo.Domain.Api\appsettings.json
+/Todo.Domain.Api\appsettings.Development
